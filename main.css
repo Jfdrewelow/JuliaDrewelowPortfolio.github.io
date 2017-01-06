@@ -30,7 +30,7 @@
 
 	#mainHeader {
 		height: 185px;
-		background: url(images/logo.png) no-repeat 25px center;
+		background: url(images/logo.png) no-repeat 25px Center;
 		padding: 0 75px 0 300;
 		position: relative;
 		border-bottom: 2px solid #7f7f7f;
@@ -100,4 +100,3 @@
 						font-style: italic;
 						margin-bottom: 10px;
 						color: #660066;
-						}
